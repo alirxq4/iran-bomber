@@ -11,7 +11,8 @@ sms bomber pro irani 🇮🇷v1 with Go (Golang)
 - Sms : 177 🧨
 - Call : 6 🧨
 
-## Speed +
+## Speed +98363288340
+
 
 ## Support from [tested]
 - `Linux` ✅
